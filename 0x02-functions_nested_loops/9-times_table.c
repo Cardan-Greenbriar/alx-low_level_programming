@@ -1,4 +1,4 @@
-clude "main.h"
+#include "main.h"
 /**
 * print_number - prints input integer
 * @n: integer to print
